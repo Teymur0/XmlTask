@@ -1,0 +1,6 @@
+@XmlTask1_HostAddress = http://localhost:5244
+
+GET {{XmlTask1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
